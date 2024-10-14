@@ -1,0 +1,4 @@
+function run(){
+    eel.cam()
+}
+
